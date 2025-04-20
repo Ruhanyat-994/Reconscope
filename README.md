@@ -45,7 +45,7 @@ git clone https://github.com/maurosoria/dirsearch.git
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/reconscope.git
+git clone https://github.com/Ruhanyat-994/Reconscope.git
 cd reconscope
 chmod +x reconscope.sh
 ```
